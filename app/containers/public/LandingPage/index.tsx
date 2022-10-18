@@ -1,7 +1,12 @@
-const LandingPage = () => {
+import { Button } from 'antd';
+
+function LandingPage() {
   return (
-    <div>Landing Page</div>
-  )
+    <div>
+      <Button>Oke</Button>
+      <Button type='primary'>Primary Button</Button>
+    </div>
+  );
 }
 
-export default LandingPage
+export default LandingPage;
