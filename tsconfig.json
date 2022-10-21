@@ -2,9 +2,10 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/App/*": ["App/*"],
-      "@/Containers/*": ["App/Containers/*"],
-      "@/Components/*": ["App/Components/*"]
+      "@/app/*": ["app/*"],
+      "@/containers/*": ["app/containers/*"],
+      "@/components/*": ["app/components/*"],
+      "@/layouts/*": ["app/layouts/*"],
     },
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
