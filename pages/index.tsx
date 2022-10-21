@@ -1,3 +1,3 @@
-import LandingPageContainer from 'app/containers/public/LandingPage';
+import LandingPage from '@/containers/public/LandingPage';
 
-export default LandingPageContainer;
+export default LandingPage;
