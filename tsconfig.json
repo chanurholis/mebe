@@ -6,6 +6,7 @@
       "@/containers/*": ["app/containers/*"],
       "@/components/*": ["app/components/*"],
       "@/layouts/*": ["app/layouts/*"],
+      "@/styles/*": ["styles/*"],
     },
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
